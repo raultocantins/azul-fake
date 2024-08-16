@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: 
+    local("HelveticaNeue-Italic"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueItalic.eot"), 
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("clientlib-fonts/resources/fonts/woff/HelveticaNeueItalic.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/HelveticaNeueItalic.svg#Helvetica Neue Italic")
+      format("svg");
+  font-style: italic;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: 
+    local("HelveticaNeue-Bold"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueBold.eot"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("clientlib-fonts/resources/fonts/woff/HelveticaNeueBold.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/HelveticaNeueBold.svg#Helvetica Neue Bold")
+      format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: 
+    local("HelveticaNeue-Medium"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueMedium.eot"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueMedium.eot?#iefix")
+      format("embedded-opentype"),
+    url("clientlib-fonts/resources/fonts/woff/HelveticaNeueMedium.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/HelveticaNeueMedium.svg#Helvetica Neue Medium")
+      format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: 
+    local("HelveticaNeue"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeue.eot"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeue.eot?#iefix")
+      format("embedded-opentype"),
+    url("clientlib-fonts/resources/fonts/woff/HelveticaNeue.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/HelveticaNeue.svg#Helvetica Neue") format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: 
+    local("HelveticaNeue-Light"),
+    url("clientlib-fonts/resources/fonts/woff/HelveticaNeueLight.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/HelveticaNeueLight.svg#Helvetica Neue Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: 
+    local("HelveticaNeue-Thin"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueThin.eot"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueThin.eot?#iefix")
+      format("embedded-opentype"),
+    url("clientlib-fonts/resources/fonts/woff/HelveticaNeueThin.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/HelveticaNeueThin.svg#Helvetica Neue Thin")
+      format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: 
+    local("HelveticaNeue-UltraThin"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueUltraLight.eot"),
+    url("clientlib-fonts/resources/fonts/eot/HelveticaNeueUltraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("clientlib-fonts/resources/fonts/woff/HelveticaNeueUltraLight.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/HelveticaNeueUltraLight.svg#Helvetica Neue UltraLight")
+      format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: "Sofia";
+  src: local("Sofia"), url("clientlib-fonts/resources/fonts/eot/Sofia.eot"),
+    url("clientlib-fonts/resources/fonts/eot/Sofia.eot?#iefix") format("embedded-opentype"),
+    url("clientlib-fonts/resources/fonts/woff/Sofia.woff") format("woff"),
+    url("clientlib-fonts/resources/fonts/svg/Sofia.svg#Sofia") format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0-10FFFF;
+}
+
